@@ -1,0 +1,10 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files (DO NOT PUSH)
+*.csv
+
+# Aadhaar API data folders
+api_data_aadhar_biometric/
+api_data_aadhar_demographic/
+api_data_aadhar_enrolment/
